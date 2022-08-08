@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Oluscosco
-- 👀 I’m interested in developing mobile appklications that will change the way some business process run.
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on mobile developers, react native and flutter wave programmers
+- 👋 Hi, I’m @Olubola Morgan
+- 👀 I’m a senior Blockchchain core developer that will change the way some business process run.
+ Express, Solidity, Web3, NFT Marketplace, Defi, Dapp
+- 🌱 I’m currently wporking on a Blockchain payment system for Cowrium and developing their own ecosystem.
+- 💞️ I’m looking to collaborate on web3 developers, solidity programmers and any blockchain related technology.
 - 📫 How to reach me olubola.morgan@gmai.com
 
 <!---
