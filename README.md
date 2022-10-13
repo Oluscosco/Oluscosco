@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olubola Morgan
-- 👀 I’m a senior Blockchchain core developer that will change the way some business process run.
+- 👀 I’m a senior blockchchain core developer that will revolusionize the way business processes run.
      Java, javascript, Express, Solidity, Web3, NFT Marketplace, Defi,DEX, Dapp, Htperledger, Fabric, Composer, Besu, Smart Contract Audit.
 - 🌱 I’m currently wporking on a Blockchain payment system for Cowrium and developing their own chain ecosystem.
 - 💞️ I’m looking to collaborate on web3 developers, solidity programmers and any blockchain related technology projects i can join
